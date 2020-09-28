@@ -1,0 +1,29 @@
+{
+    "餐厅A": {
+        "name": "餐厅A",
+        "description": "餐厅A介绍",
+        "localtion": "餐厅A地址",
+        "coordinate": {
+            "longitude": "102",
+            "latitude": "999"
+        }
+    },
+    "餐厅B": {
+        "name": "餐厅B",
+        "description": "餐厅B介绍",
+        "localtion": "餐厅B地址",
+        "coordinate": {
+            "longitude": "102",
+            "latitude": "999"
+        }
+    },
+    "餐厅C": {
+        "name": "餐厅C",
+        "description": "餐厅C介绍",
+        "localtion": "餐厅C地址",
+        "coordinate": {
+            "longitude": "102",
+            "latitude": "999"
+        }
+    }
+}
