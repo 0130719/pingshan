@@ -6,7 +6,8 @@
         "coordinate": {
             "longitude": "102",
             "latitude": "999"
-        }
+        },
+        "image": "images/餐厅.png"
     },
     "餐厅B": {
         "name": "餐厅B",
@@ -15,7 +16,8 @@
         "coordinate": {
             "longitude": "102",
             "latitude": "999"
-        }
+        },
+        "image": "images/餐厅.png"
     },
     "餐厅C": {
         "name": "餐厅C",
@@ -24,6 +26,7 @@
         "coordinate": {
             "longitude": "102",
             "latitude": "999"
-        }
+        },
+        "image": "images/餐厅.png"
     }
 }
